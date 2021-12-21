@@ -1,0 +1,1 @@
+trova il minimimo di alfa_k+1 e alfa_k solo per uno step

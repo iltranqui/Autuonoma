@@ -1,0 +1,1 @@
+trova il minimo di tutto il vettore alfa prova basandosi su opt_test_v1

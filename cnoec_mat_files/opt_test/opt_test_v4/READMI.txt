@@ -1,0 +1,2 @@
+new version following the dynamic-kinematic approach
+implementare la formula 36 del paper
